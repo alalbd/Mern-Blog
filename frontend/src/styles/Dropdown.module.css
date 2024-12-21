@@ -1,0 +1,20 @@
+#navbarDropdown::after {
+  margin-left: 12.255em;
+}
+.dropdownMenu {
+  -webkit-transition: all 0.5s ease-in-out 0s;
+  transition: all 0.5s ease-in-out 0s;
+}
+
+ul.dropdownHide {
+  opacity: 0;
+  height: 0 !important;
+}
+
+.dropdownShow {
+  opacity: 1;
+}
+
+.inactive li {
+  display: none;
+}

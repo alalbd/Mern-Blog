@@ -1,0 +1,32 @@
+#root {
+  font-family: serif;
+}
+
+a {
+  color: inherit !important;
+  text-decoration: none !important;
+}
+
+.f-12 {
+  font-size: 12px;
+}
+
+.f-14 {
+  font-size: 14px;
+}
+
+.flex {
+  flex: 1;
+}
+
+.bg-main {
+  background-color: #35bcbf;
+}
+
+.text-main {
+  color: #1d3d52;
+}
+
+.color-main {
+  color: #35bcbf;
+}

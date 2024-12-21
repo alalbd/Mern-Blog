@@ -1,0 +1,12 @@
+.nav-tabs a.nav-link.active {
+  border-radius: 0;
+  border-top: 2px solid #000;
+}
+
+.content {
+  display: none;
+}
+
+.active-content {
+  display: flex;
+}
